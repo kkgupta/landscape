@@ -16333,10 +16333,19 @@ landscape:
             joined: '2022-11-01'
           - item:
             name: Omnistrate (member)
-            homepage_url: https://omnistrate.com
+            homepage_url: https://omnistrate.ai
             logo: omnistrate.svg
             crunchbase: https://www.crunchbase.com/organization/omnistrate
-            joined: '2024-07-01'    
+            joined: '2024-07-01'
+            description: >-
+                Omnistrate is a developer platform that enables modern software companies to deliver their applications to customers in any distribution model:
+                OnPrem, BYOC, PaaS, SaaS, or Agentic SaaS — in days, not years. In other words, Omnistrate is world's first control plane as-a-service that 
+                streamlines deployments across different distribution models, automates platform from tenant provisioning and subscriptions to deployments 
+                and infrastructure, and finally integrate with your favorite tools — whether Open Source, SaaS APIs, or AI tooling.
+            extra:
+              summary_personas: SREs, Platform Engineers, DevOps, Architects, Developers
+              summary_tags: platform engineering, multi-cloud, kubernetes, control plane, SaaS, Agentic SaaS, BYOC, PaaS, OnPrem Installs
+              summary_intro_url: https://blog.omnistrate.com/posts/152                
           - item:
             name: oodle.ai (member)
             homepage_url: https://oodle.ai
